@@ -4,7 +4,6 @@ We had an awesome Hacktoberfest Meetup.
 - [Announcement](https://www.facebook.com/photo.php?fbid=10211920139733713&set=a.1083148153769.2013399.1078294064&type=3&theater)
 - https://www.meetup.com/preview/DigitalOceanLahore/events/244307272
 - https://www.meetup.com/preview/WordPress-Lahore/events/244307271
-- 
 
 Following is the feedback from different attendees:
 
